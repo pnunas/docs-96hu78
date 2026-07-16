@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-d8yumj.privatetalks.online/sitemap.xml
